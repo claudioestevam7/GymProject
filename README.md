@@ -1,21 +1,21 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Fitclub" />
-
   &#xa0;
-
-  <!-- <a href="https://fitclub.netlify.com">Demo</a> -->
 </div>
 
-<h1 align="center">Fitclub</h1>
 
+<!-- Titulo -->
+<h1 align="center">Gym Project</h1>
+
+
+<!-- Icones iniciais -->
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/claudioestevam7/fitclub?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/claudioestevam7/GymProject?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/claudioestevam7/fitclub?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/claudioestevam7/GymProject?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/claudioestevam7/fitclub?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/claudioestevam7/GymProject?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/claudioestevam7/fitclub?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/claudioestevam7/GymProject?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/claudioestevam7/fitclub?color=56BEB8" /> -->
 
@@ -32,66 +32,83 @@
 
 <hr> -->
 
+
+<!-- Topicos -->
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/claudioestevam7" target="_blank">Autor</a>
+  <a href="#dart-sobre">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Getting Started</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/claudioestevam7" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: Sobre ##
 
-Sobre o seu projeto
 
-## :sparkles: Funcionalidades ##
+## :dart: About ##
 
-:heavy_check_mark: Funcionalidade 1;\
-:heavy_check_mark: Funcionalidade 2;\
-:heavy_check_mark: Funcionalidade 3;
+This project was developed for a marketing campaign for a gym that needed to stand out digitally. It had been growing locally; however, with online visibility, its campaigns will be more effective.
 
-## :rocket: Tecnologias ##
+The front-end page was created in React, styled with CSS, and marked up in HTML5.
 
-As seguintes ferramentas foram usadas na construção do projeto:
+<div classe="video" id="video">
+</div>
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+<img  alt="Principal linguagem do projeto" src="/gymsite.gif" style="borderRadius=5">
 
-## :white_check_mark: Pré requisitos ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
 
-## :checkered_flag: Começando ##
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Intuitive design;\
+:heavy_check_mark: Responsiveness;\
+:heavy_check_mark: Openness to upgrades.
+
+
+
+
+
+## :rocket:  Technologies  ##
+
+The following tools were used in the construction of the project:
+
+- <img alt="node" src="node.png"> &#xa0; [Node.js](https://nodejs.org/en/)
+- <img alt="react" src="react.png"> &#xa0; [React](https://pt-br.reactjs.org/)
+- <img alt="js" src="js.png"> &#xa0; [JavaScript](https://pt-br.reactjs.org/)
+- <img alt="css" src="css.png"> &#xa0; [Css](https://pt-br.reactjs.org/)
+- <img alt="html" src="html.png"> &#xa0; [Html](https://pt-br.reactjs.org/)
+
+## :white_check_mark: Requirements ##
+
+Before you begin :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your machine.
+
+
+
+## :checkered_flag: Getting Started ##
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/claudioestevam7/fitclub
 
-# Entre na pasta
-$ cd fitclub
+# Install the dependencies
+$ npm install
 
-# Instale as dependências
-$ yarn
+# To start the project
+$ npm start
 
-# Para iniciar o projeto
-$ yarn start
-
-# O app vai inicializar em <http://localhost:3000>
+# The app will initialize in <http://localhost:3000>
 ```
 
-## :memo: Licença ##
+## :memo: License  ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license.
 
 
-Feito com :heart: por <a href="https://github.com/claudioestevam7" target="_blank">Cláudio Estevam</a>
+Made by <a href="https://github.com/claudioestevam7" target="_blank">Cláudio Estevam</a>.
 
 &#xa0;
 
