@@ -48,21 +48,22 @@
 
 
 
-## :dart: About ##
+## :dart: About
 
 This project was developed for a marketing campaign for a gym that needed to stand out digitally. It had been growing locally; however, with online visibility, its campaigns will be more effective.
 
 The front-end page was created in React, styled with CSS, and marked up in HTML5.
 
-<div classe="video" id="video">
-</div>
+
+Application link [click here](https://gymprojects.netlify.app/)
+
 
 <img  alt="Principal linguagem do projeto" src="/gymsite.gif" style="borderRadius=5">
 
 
 
 
-## :sparkles: Features ##
+## :sparkles: Features
 
 :heavy_check_mark: Intuitive design;\
 :heavy_check_mark: Responsiveness;\
@@ -72,7 +73,7 @@ The front-end page was created in React, styled with CSS, and marked up in HTML5
 
 
 
-## :rocket:  Technologies  ##
+## :rocket:  Technologies
 
 The following tools were used in the construction of the project:
 
@@ -82,13 +83,13 @@ The following tools were used in the construction of the project:
 - <img alt="css" src="css.png"> &#xa0; [Css](https://pt-br.reactjs.org/)
 - <img alt="html" src="html.png"> &#xa0; [Html](https://pt-br.reactjs.org/)
 
-## :white_check_mark: Requirements ##
+## :white_check_mark: Requirements
 
 Before you begin :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your machine.
 
 
 
-## :checkered_flag: Getting Started ##
+## :checkered_flag: Getting Started
 
 ```bash
 # Clone this repository
@@ -103,7 +104,7 @@ $ npm start
 # The app will initialize in <http://localhost:3000>
 ```
 
-## :memo: License  ##
+## :memo: License
 
 This project is under the MIT license.
 
